@@ -8,7 +8,10 @@
 * Remote Procedure Call (Chamada de procedimento remotamente).
 
 # Técnologias utilizadas no estudo
-![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 # Links Uteis
 * https://camel.apache.org/
