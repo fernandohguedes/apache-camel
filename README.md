@@ -7,6 +7,8 @@
 * Shared Database (Banco compartilhado); 
 * Remote Procedure Call (Chamada de procedimento remotamente).
 
+# Técnologias utilizadas no estudo
+![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
 
 # Links Uteis
 * https://camel.apache.org/
